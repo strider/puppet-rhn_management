@@ -1,0 +1,1 @@
+class rhn_management {}
